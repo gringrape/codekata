@@ -1,0 +1,8 @@
+[
+  "test_primeFactors.py::test_of1_isNone",
+  "test_primeFactors.py::test_of2_is2",
+  "test_primeFactors.py::test_of4_is22",
+  "test_primeFactors.py::test_isPrime1_isFalse",
+  "test_primeFactors.py::test_isPrime23_isTrue",
+  "test_primeFactors.py::test_isPrime2278_isFalse"
+]
