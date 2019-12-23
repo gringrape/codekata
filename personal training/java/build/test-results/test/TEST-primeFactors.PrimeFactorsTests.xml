@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="primeFactors.PrimeFactorsTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-12-23T09:43:47" hostname="DESKTOP-8DS6PS4" time="0.068">
+<testsuite name="primeFactors.PrimeFactorsTests" tests="11" skipped="0" failures="0" errors="0" timestamp="2019-12-23T14:51:09" hostname="DESKTOP-8DS6PS4" time="0.063">
   <properties/>
-  <testcase name="of16_is2222" classname="primeFactors.PrimeFactorsTests" time="0.066"/>
+  <testcase name="of16_is2222" classname="primeFactors.PrimeFactorsTests" time="0.057"/>
+  <testcase name="findMinPrime7_is7" classname="primeFactors.PrimeFactorsTests" time="0.003"/>
   <testcase name="of2_is2" classname="primeFactors.PrimeFactorsTests" time="0.0"/>
   <testcase name="of3_is3" classname="primeFactors.PrimeFactorsTests" time="0.0"/>
   <testcase name="ofNegative1_isNone" classname="primeFactors.PrimeFactorsTests" time="0.0"/>
-  <testcase name="of8_is222" classname="primeFactors.PrimeFactorsTests" time="0.001"/>
+  <testcase name="of8_is222" classname="primeFactors.PrimeFactorsTests" time="0.0"/>
+  <testcase name="findMinPrime16_is2" classname="primeFactors.PrimeFactorsTests" time="0.0"/>
+  <testcase name="findMinPrime25_is5" classname="primeFactors.PrimeFactorsTests" time="0.001"/>
   <testcase name="of1_isNone" classname="primeFactors.PrimeFactorsTests" time="0.0"/>
   <testcase name="of4_is22" classname="primeFactors.PrimeFactorsTests" time="0.0"/>
   <testcase name="of6_is23" classname="primeFactors.PrimeFactorsTests" time="0.0"/>
