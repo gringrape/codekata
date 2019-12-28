@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2e6117c-1a8e-473f-84ee-740dc192ea2b" name="Default Changelist" comment="">
+    <list default="true" id="20b4efa1-fe7f-48c4-9761-9f1377278119" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/templateLanguages.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/primeFactors/PrimeFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/primeFactors/PrimeFactors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/primeFactors/PrimeFactorsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/primeFactors/PrimeFactorsTests.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -28,364 +32,164 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/primeFactors/PrimeFactors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/primeFactors/PrimeFactorsTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="82" column="28" lean-forward="true" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#ofNegative1_isNone#0;class#PrimeFactorsTests#0" />
-                <element signature="method#of1_isNone#0;class#PrimeFactorsTests#0" />
-                <element signature="method#of2_is2#0;class#PrimeFactorsTests#0" />
-                <element signature="method#of3_is3#0;class#PrimeFactorsTests#0" />
-                <element signature="method#of4_is22#0;class#PrimeFactorsTests#0" />
-                <element signature="method#of8_is222#0;class#PrimeFactorsTests#0" />
-                <element signature="method#of16_is2222#0;class#PrimeFactorsTests#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="JUnit4 Test Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/primeFactors/utils/ImmutableList.java" />
-        <option value="$PROJECT_DIR$/src/test/java/primeFactors/utils/ImmutableListTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/primeFactors/PrimeFactorsTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/primeFactors/PrimeFactors.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-32" />
-    <option name="y" value="-32" />
-    <option name="width" value="1952" />
-    <option name="height" value="1112" />
-  </component>
+  <component name="ProjectId" id="1Vav4thttB7aSbygyN4tPp1zXka" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="primeFactors" />
-      <recent name="primeFactors.utils" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Gradle.PrimeFactorsTests">
-    <configuration name="PrimeFactorsTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;primeFactors.PrimeFactorsTests&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+  <component name="RunManager" selected="JUnit.PrimeFactorsTests.firstFactorOf_OutOfRangeInput">
+    <configuration name="PrimeFactorsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primeFactors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="primeFactors" />
+      <option name="MAIN_CLASS_NAME" value="primeFactors.PrimeFactorsTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="PrimeFactorsTests.findMinPrime16_is2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;primeFactors.PrimeFactorsTests.findMinPrime16_is2&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="PrimeFactorsTests.firstFactorOf_OutOfRangeInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primeFactors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="primeFactors" />
+      <option name="MAIN_CLASS_NAME" value="primeFactors.PrimeFactorsTests" />
+      <option name="METHOD_NAME" value="firstFactorOf_OutOfRangeInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="PrimeFactorsTests.findMinPrime7_is7" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;primeFactors.PrimeFactorsTests.findMinPrime7_is7&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="PrimeFactorsTests.firstFactorOf_tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primeFactors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="primeFactors" />
+      <option name="MAIN_CLASS_NAME" value="primeFactors.PrimeFactorsTests" />
+      <option name="METHOD_NAME" value="firstFactorOf_tests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="PrimeFactorsTests.of1_isNone" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;primeFactors.PrimeFactorsTests.of1_isNone&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="PrimeFactorsTests.ofNegative1_isNone" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;primeFactors.PrimeFactorsTests.ofNegative1_isNone&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="PrimeFactorsTests.of_tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primeFactors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="primeFactors" />
+      <option name="MAIN_CLASS_NAME" value="primeFactors.PrimeFactorsTests" />
+      <option name="METHOD_NAME" value="of_tests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.PrimeFactorsTests" />
-        <item itemvalue="Gradle.PrimeFactorsTests.ofNegative1_isNone" />
-        <item itemvalue="Gradle.PrimeFactorsTests.of1_isNone" />
-        <item itemvalue="Gradle.PrimeFactorsTests.findMinPrime16_is2" />
-        <item itemvalue="Gradle.PrimeFactorsTests.findMinPrime7_is7" />
+        <item itemvalue="JUnit.PrimeFactorsTests.firstFactorOf_OutOfRangeInput" />
+        <item itemvalue="JUnit.PrimeFactorsTests.of_tests" />
+        <item itemvalue="JUnit.PrimeFactorsTests.firstFactorOf_tests" />
+        <item itemvalue="JUnit.PrimeFactorsTests" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b2e6117c-1a8e-473f-84ee-740dc192ea2b" name="Default Changelist" comment="" />
-      <created>1576454030171</created>
+      <changelist id="20b4efa1-fe7f-48c4-9761-9f1377278119" name="Default Changelist" comment="" />
+      <created>1577503833206</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1576454030171</updated>
+      <updated>1577503833206</updated>
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="PrimeFactorsTests_findMinPrime7_is7 - 2019.12.23 at 23h 44m 22s.xml">
-      <configuration name="PrimeFactorsTests.findMinPrime7_is7" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PrimeFactorsTests - 2019.12.23 at 23h 44m 26s.xml">
-      <configuration name="PrimeFactorsTests" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PrimeFactorsTests_findMinPrime16_is2 - 2019.12.23 at 23h 45m 56s.xml">
-      <configuration name="PrimeFactorsTests.findMinPrime16_is2" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PrimeFactorsTests_findMinPrime16_is2 - 2019.12.23 at 23h 47m 28s.xml">
-      <configuration name="PrimeFactorsTests.findMinPrime16_is2" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PrimeFactorsTests - 2019.12.23 at 23h 47m 33s.xml">
-      <configuration name="PrimeFactorsTests" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PrimeFactorsTests_of1_isNone - 2019.12.23 at 23h 49m 01s.xml">
-      <configuration name="PrimeFactorsTests.of1_isNone" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PrimeFactorsTests_ofNegative1_isNone - 2019.12.23 at 23h 49m 14s.xml">
-      <configuration name="PrimeFactorsTests.ofNegative1_isNone" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PrimeFactorsTests - 2019.12.23 at 23h 50m 32s.xml">
-      <configuration name="PrimeFactorsTests" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PrimeFactorsTests - 2019.12.23 at 23h 50m 46s.xml">
-      <configuration name="PrimeFactorsTests" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PrimeFactorsTests - 2019.12.23 at 23h 51m 09s.xml">
-      <configuration name="PrimeFactorsTests" configurationId="GradleRunConfiguration" />
-    </history-entry>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1618" height="877" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25609756" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="DB Browser" order="5" weight="0.32991013" />
-      <window_info id="Project Explorer" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info id="Capture Tool" order="8" />
-      <window_info id="Job Explorer" order="9" />
-      <window_info id="Learn" order="10" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3489933" />
-      <window_info anchor="bottom" id="GraphQL" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Console" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="DB Execution Console" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/primeFactors/utils/ImmutableListTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/primeFactors/utils/ImmutableList.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/stream/IntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="792" column="16" selection-start-line="792" selection-start-column="16" selection-end-line="792" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/primeFactors/PrimeFactorsTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="82" column="28" lean-forward="true" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#ofNegative1_isNone#0;class#PrimeFactorsTests#0" />
-            <element signature="method#of1_isNone#0;class#PrimeFactorsTests#0" />
-            <element signature="method#of2_is2#0;class#PrimeFactorsTests#0" />
-            <element signature="method#of3_is3#0;class#PrimeFactorsTests#0" />
-            <element signature="method#of4_is22#0;class#PrimeFactorsTests#0" />
-            <element signature="method#of8_is222#0;class#PrimeFactorsTests#0" />
-            <element signature="method#of16_is2222#0;class#PrimeFactorsTests#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primeFactors/PrimeFactors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1577506856684">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577506856684" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1577506856683">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577506856682" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1577506856682">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577506856682" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1577506856683">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577506856683" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1577505945659">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1577505945659" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1577503837583">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1577503837583" />
+    <state x="424" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577503972184">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="424" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1577503972184" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1577504083274">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1577504083274" />
   </component>
 </project>

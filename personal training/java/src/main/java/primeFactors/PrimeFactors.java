@@ -2,29 +2,33 @@ package primeFactors;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.IntStream;
 
 public class PrimeFactors {
 
-    public static List<Integer> of(Integer number) {
+    public static List<Integer> of(Integer num) {
 
         List<Integer> result = new ArrayList<>();
-
-        if (number > 1) {
-            int minPrime = findMinPrime(number);
-            result.add(minPrime);
-            result.addAll(PrimeFactors.of(number / minPrime));
+        if (num > 1) {
+            Integer firstFactor =
+                    PrimeFactors.firstFactorOf(num);
+            result.add(firstFactor);
+            result.addAll(PrimeFactors.of(num / firstFactor));
         }
 
         return result;
+
     }
 
-    public static int findMinPrime(Integer number) {
+    public static Integer firstFactorOf(Integer num) {
 
-        return IntStream.range(2, number + 1)
-                .filter(i -> number % i == 0)
-                .findFirst()
-                .getAsInt();
+        if (num < 2)
+            throw new NumberOutOfRangeException(num);
 
+        for (int i = 2; i < num; i++) {
+            if (num % i == 0)
+                return i;
+        }
+
+        return num;
     }
 }
